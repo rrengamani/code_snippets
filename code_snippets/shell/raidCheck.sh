@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #title           :raidCheck.sh
-#description     : gets the machine name and checks for raid failure.
+#description     : gets the machine name, checks for raid failure and triggers email.
 #author          :rengamanir
 #date            :20120425
 #version         :1.0
